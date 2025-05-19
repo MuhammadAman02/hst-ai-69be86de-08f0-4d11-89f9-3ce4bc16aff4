@@ -10,5 +10,9 @@
   {
     "role": "user",
     "content": "simple hello world"
+  },
+  {
+    "role": "user",
+    "content": "simple hello world"
   }
 ]
